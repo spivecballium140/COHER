@@ -29,21 +29,17 @@
 | **求解时间** | 极速响应 | 平均耗时仅 **0.69 秒** |
 | **收敛稳定性** | 强 | 成功克服多维奖励稀疏陷阱 |
 
-*(注：详细的实验对比图表请参考论文实验部分或 `results/` 文件夹。)*
-
 ---
 
 ## ⚙️ 环境依赖 (Prerequisites)
 
-请确保你的本地环境满足以下要求：
-
-- OS: Linux (推荐 Ubuntu 20.04) / Windows
+- OS: Linux (Ubuntu 20.04)
 - Python >= 3.8
 - PyTorch >= 1.10.0
 
 安装所需依赖包：
 
 ```bash
-git clone https://github.com/YourUsername/Your-Repo-Name.git
-cd Your-Repo-Name
+git clone https://github.com/1Happ-cyber/COHER.git
+cd COHER
 pip install -r requirements.txt
