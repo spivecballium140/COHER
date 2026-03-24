@@ -1,0 +1,32 @@
+================================================================================
+NOTICE: Third-Party Code Attribution
+================================================================================
+
+This directory (agent_DRL/) contains code derived from the following work:
+
+Original Work:
+--------------
+Repository: https://github.com/MISTCARRYYOU/objectiveHER4hybridjobscheduling
+Paper: "Hybrid Job Scheduling in IoT-enabled Cloud Manufacturing with 
+        Sparse-reward Deep Reinforcement Learning"
+Authors: Wang, Xiaohan and Laili, Yuanjun and Zhang, Lin and Liu, Yongkui
+Journal: IEEE TASE
+Year: 2022
+
+--------------
+This code has been modified and extended for the COHER (Cloud-Edge Hybrid 
+manufacturing Environment for Reinforcement learning) project.
+------------
+If you use this code in your research, please cite both the original paper and 
+the COHER project:
+
+Original Paper:
+@article{wang2024hybrid,
+  title={Hybrid Task Scheduling in Cloud Manufacturing with Sparse-reward Deep 
+         Reinforcement Learning},
+  author={Wang, Xiaohan and Laili, Yuanjun and Zhang, Lin and Liu, Yongkui},
+  journal={IEEE TASE},
+  year={2022},
+  publisher={IEEE}
+}
+================================================================================
