@@ -30,6 +30,18 @@ The QoS values of various models across task scales T200, T300, T400, and T500
 
 ---
 
+## Attribution
+
+### Original Work
+This project builds upon the DRL framework from:
+
+- **Repository**: https://github.com/MISTCARRYYOU/objectiveHER4hybridjobscheduling
+- **Paper**: "Hybrid Job Scheduling in IoT-enabled Cloud Manufacturing with Sparse-reward Deep Reinforcement Learning"
+- **Authors**: Wang, Xiaohan; Laili, Yuanjun; Zhang, Lin; Liu, Yongkui
+- **Journal**: IEEE Transactions on Automation Science and Engineering (TASE), 2022
+
+The `agent_DRL/` directory contains modified versions of the original code. Please see `agent_DRL/NOTICE` for details.
+
 ## ⚙️ Prerequisites
 
 - OS: Linux (Ubuntu 20.04)
@@ -42,3 +54,4 @@ The QoS values of various models across task scales T200, T300, T400, and T500
 git clone https://github.com/1Happ-cyber/COHER.git
 cd COHER
 pip install -r requirements.txt
+
